@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://KamaleshMS.github.io/nbdev-tutorial"
+  description: "Learn how to use nbdev to seamlessly integrate code, documentation, and testing in Python projects. Boost your productivity and collaboration with this comprehensive tutorial."
+  repo-branch: main
+  repo-url: "https://github.com/KamaleshMS/nbdev-tutorial"
